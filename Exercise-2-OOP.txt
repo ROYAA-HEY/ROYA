@@ -1,0 +1,100 @@
+Exercise 2 - OOP
+
+1. Customer
+
+Properties:
+- name
+- customerId
+- email
+- phoneNumber
+
+Methods:
+- placeOrder()
+- cancelOrder()
+
+
+2. Student
+
+Properties:
+- name
+- studentId
+- major
+- averageGrade
+
+Methods:
+- study()
+- takeExam()
+
+
+3. Teacher
+
+Properties:
+- name
+- teacherId
+- subject
+- salary
+
+Methods:
+- teach()
+- gradeExam()
+
+
+4. Employee
+
+Properties:
+- name
+- employeeId
+- position
+- salary
+
+Methods:
+- work()
+- requestLeave()
+
+
+5. Rectangle
+
+Properties:
+- width
+- height
+
+Methods:
+- calculateArea()
+- calculatePerimeter()
+
+
+6. Square
+
+Properties:
+- sideLength
+- color
+
+Methods:
+- calculateArea()
+- calculatePerimeter()
+
+
+7. Dog
+
+Properties:
+- name
+- age
+- breed
+- weight
+
+Methods:
+- bark()
+- eat()
+
+
+8. Cat
+
+Properties:
+- name
+- age
+- color
+- weight
+
+Methods:
+- meow()
+- sleep()

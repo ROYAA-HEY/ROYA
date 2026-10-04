@@ -1,0 +1,10 @@
+Exercise 3 - HTTP and HTTPS
+
+HTTP (HyperText Transfer Protocol):
+HTTP is a protocol used to transfer information between a web browser and a server. Data sent through HTTP is not encrypted, so it has lower security.
+
+HTTPS (HyperText Transfer Protocol Secure):
+HTTPS is the secure version of HTTP. It uses encryption to protect information transferred between the user and the server, making it safer for sensitive information such as passwords and banking details.
+
+Main Difference:
+HTTP does not encrypt data, while HTTPS encrypts data and provides better security.

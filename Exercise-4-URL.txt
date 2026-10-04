@@ -1,0 +1,16 @@
+Exercise 4 - URL
+
+URL stands for Uniform Resource Locator.
+It is the address used to identify and access a resource on the Internet.
+
+For example:
+https://www.example.com/page
+
+Main parts of a URL:
+- Protocol: https
+- Domain: www.example.com
+- Path: /page
+
+The protocol specifies how the browser communicates with the server.
+The domain identifies the website or server.
+The path specifies the location of a specific resource on the website.
